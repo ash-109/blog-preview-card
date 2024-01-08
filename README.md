@@ -1,5 +1,8 @@
 # Frontend Mentor - Blog preview card
 
+https://ash-109.github.io/blog-preview-card/
+
+
 ![Design preview for the Blog preview card coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
