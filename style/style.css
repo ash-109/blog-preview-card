@@ -29,9 +29,9 @@ justify-content: center;
 }
 .card{
 margin: 0 auto;
-margin-bottom: 1rem;
+margin-bottom: 2rem;
     background: var(--White);
-    height: 28rem;
+    height: auto;
     width: 20rem;
     border-radius: 16px;
     padding: 1.3rem; 
@@ -97,12 +97,11 @@ margin-bottom: 1rem;
 }
 
 .attribution a { 
-    color: hsl(228, 45%, 44%);
+    color: hsl(220, 2%, 34%);
     text-decoration: none; 
 }
 .attribution a:hover{
-    /* color: var(--Grey); */
-    color: hsl(228, 63%, 28%);
+    color: hsl(0, 0%, 0%);
     text-decoration: underline;
     text-underline-offset: 0.3rem;
 }
